@@ -4,7 +4,6 @@
 
 Due to the recent epidemic of West Nile Virus in the Windy City, the Department of Public Health has set up a surveillance and control system in hopes of learning from the mosquito population over time in order to derive an effective plan to deplot pesticides throughout the city. 
 
-
 For this project, the following fundamental data science skills are practiced : 
 - 
 - 
