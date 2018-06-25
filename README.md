@@ -2,30 +2,31 @@
 
 ## Scenario
 
-
 Due to the recent epidemic of West Nile Virus in the Windy City, the Department of Public Health has set up a surveillance and control system in hopes of learning from the mosquito population over time in order to derive an effective plan to deplot pesticides throughout the city. 
 
+For this project, the following fundamental data science skills are practiced : 
+  - 
+  - 
+  - 
+
 ## Project Suumary 
--
 
-## Dataset
+### Problem Statement 
+_Build a model and make predictions the city of Chicago can use when it decides where to spray pesticides, including comparing annual cost projections for various levels of pesticide coverage and the benefit of said coverages_ 
 
-The dataset, along with description, can be found here: [https://www.kaggle.com/c/predict-west-nile-virus/](https://www.kaggle.com/c/predict-west-nile-virus/).
+### Dataset
 
+- The dataset, along with description, can be found here: [https://www.kaggle.com/c/predict-west-nile-virus/](https://www.kaggle.com/c/predict-west-nile-virus/).
 
+### Exploratory Data Analysis
 
+- Describing the data in terms of what it represents and what types are present, as well as what distributions look like 
+- Determining What kind of cleaning is needed
+- Documenting any potential issues that will need to be resolved
 
+### Modeling 
 
-**EDA**
-
-1. Describe the data. What does it represent? What types are present? What does each data points' distribution look like? Discuss these questions, and your own, with your partners. Document your conclusions.
-2. What kind of cleaning is needed? Document any potential issues that will need to be resolved.
-
-
-**Modeling**
-
-1. The goal is of course to build a model and make predictions that the city of Chicago can use when it decides where to spray pesticides! 
-2. Conduct a cost-benefit analysis. This should include annual cost projections for various levels of pesticide coverage (cost) and the effect of these various levels of pesticide coverage (benefit). *(Hint: How would we quantify the benefit of pesticide spraying? To get "maximum benefit," what does that look like and how much does that cost? What if we cover less and therefore get a lower level of benefit?)*
+### Conclusions
 
 **Presentation**
 * Audience: You are presenting to members of the CDC. Some members of the audience will be biostatisticians and epidemiologists who will understand your models and metrics and will want more information. Others will be decision-makers, focusing almost exclusively on your cost-benefit analysis. Your job is to convince both groups of the best course of action in the same meeting and be able to answer questions that either group may ask.
