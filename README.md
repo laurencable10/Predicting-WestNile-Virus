@@ -9,7 +9,7 @@ For this project, the following fundamental data science skills are practiced :
   - 
   - 
 
-## Project Suumary 
+## Project Summary 
 
 ### Problem Statement 
 _Build a model and make predictions the city of Chicago can use when it decides where to spray pesticides, including comparing annual cost projections for various levels of pesticide coverage and the benefit of said coverages_ 
